@@ -1,0 +1,30 @@
+{
+  "DSM": {
+    "Diagnoses": [
+      {
+        "Abbreviation": "ADHD",
+        "Page": "123",
+        "Code": "314.00",
+        "Name": "Attention Deficit Hyperactivity Disorder"
+      },
+      {
+        "Abbreviation": "OCD",
+        "Page": "456",
+        "Code": "300.3",
+        "Name": "Obsessive Compulsive Disorder"
+      },
+      {
+        "Abbreviation": "BPD",
+        "Page": "789",
+        "Code": "301.83",
+        "Name": "Borderline Personality Disorder"
+      },
+      {
+        "Abbreviation": "ED",
+        "Page": "102",
+        "Code": "999.9",
+        "Name": "Example Disorder"
+      }
+    ]
+  }
+}
